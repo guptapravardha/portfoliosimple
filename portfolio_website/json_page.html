@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JSON Data - My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+  <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+  <header class="site-header">
+    <img src="profile-pic.jpg" class="profile-pic">
+    <h1 class="brand">Pravardha Gupta</h1>
+    <h1 class="brand">JSON Data</h1>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="resume.html">Resume</a>
+      <a href="certificates.html">Certificates</a>
+      <a href="json_page.html">JSON Data</a>
+      <a href="xml_page.html">XML Resume</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>Data from data.json</h2>
+      <pre id="jsonDump">Click the button to load JSON.</pre>
+      <button onclick="dumpJSON()">Show JSON raw</button>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!ELEMENT resume (careerObjective, education, skills, projects, interests)>
+<!ELEMENT careerObjective (#PCDATA)>
+<!ELEMENT education (record+)>
+<!ELEMENT record (level, institution, year)>
+<!ELEMENT level (#PCDATA)>
+<!ELEMENT institution (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT skills (technicalSkills, softSkills)>
+<!ELEMENT technicalSkills (skill+)>
+<!ELEMENT softSkills (skill+)>
+<!ELEMENT skill (#PCDATA)>
+<!ELEMENT projects (project+)>
+<!ELEMENT project (title, description)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT interests (interest+)>
+<!ELEMENT interest (#PCDATA)>

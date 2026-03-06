@@ -1,0 +1,73 @@
+<!DOCTYPE resume SYSTEM "resume.dtd">
+<resume>
+  <careerObjective>
+    To build strong fundamentals in computer science and web development by working on small practical projects,
+    exploring new technologies, and improving through continuous learning. I aim to grow as a dedicated CSIT student 
+    at Symbiosis by applying my skills in real situations, collaborating with peers, and developing problem-solving 
+    and creativity in the tech field.
+  </careerObjective>
+  <education>
+    <record>
+      <level>Undergraduation</level>
+      <institution>Symbiosis University of Applied Science, Indore</institution>
+      <year>2025-Present</year>
+    </record>
+    <record>
+      <level>Grade XII (CBSE)</level>
+      <institution>Medi-Caps International School</institution>
+      <year>2025</year>
+    </record>
+    <record>
+      <level>Grade X (CBSE)</level>
+      <institution>Choithram School North Campus</institution>
+      <year>2023</year>
+    </record>
+  </education>
+  <skills>
+    <technicalSkills>
+      <skill>HTML</skill>
+      <skill>CSS</skill>
+      <skill>JavaScript (basic)</skill>
+      <skill>PHP and MySQL (basic)</skill>
+      <skill>AJAX</skill>
+      <skill>JSON</skill>
+      <skill>XML</skill>
+      <skill>Figma</skill>
+      <skill>Canva</skill>
+      <skill>GitHub (beginner)</skill>
+      <skill>Responsive Web Design Basics</skill>
+    </technicalSkills>
+    <softSkills>
+      <skill>Teamwork and Collaboration</skill>
+      <skill>Problem-solving</skill>
+      <skill>Logical Thinking</skill>
+      <skill>Time Management</skill>
+      <skill>Quick Learning</skill>
+      <skill>Adaptability</skill>
+    </softSkills>
+  </skills>
+  <projects>
+    <project>
+      <title>Figma Design for Website</title>
+      <description>
+        Created UI/UX mockups for a multipage website, focusing on layout structure, color themes,
+        and user-friendly design. Used frames, components, and prototype links for navigation.
+      </description>
+    </project>
+    <project>
+      <title>Website for a School</title>
+      <description>
+        Designed a responsive school website with sections such as About, Gallery,
+        Admission Info, and a Contact Form. Used HTML, CSS, and basic JavaScript for page interactions.
+      </description>
+    </project>
+  </projects>
+  <interests>
+    <interest>Web development and UI designing</interest>
+    <interest>Learning new frameworks and tools</interest>
+    <interest>Creating clean user interfaces</interest>
+    <interest>Exploring databases and backend concepts</interest>
+    <interest>Tech videos, design inspiration, and coding challenges</interest>
+  </interests>
+</resume>
+
